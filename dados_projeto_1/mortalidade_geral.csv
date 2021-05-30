@@ -1,0 +1,46 @@
+ Mortalidade - Brasil
+Óbitos p/Ocorrênc por Região/Unidade da Federação e Local ocorrência
+Período:2017-2019
+"Região/Unidade da Federação";"Hospital";"Outro estabelecimento de saúde";"Domicílio";"Via pública";"Outros";"Ignorado";"Total"
+"Região Norte";155909;7601;55769;17539;13877;635;251330
+".. Rondônia";17165;338;4584;1583;938;43;24651
+".. Acre";7938;40;2710;802;737;19;12246
+".. Amazonas";33958;416;12596;3006;2619;56;52651
+".. Roraima";4995;82;1590;404;833;12;7916
+".. Pará";70562;5899;26859;9305;6943;470;120038
+".. Amapá";6978;193;1767;537;571;7;10053
+".. Tocantins";14313;633;5663;1902;1236;28;23775
+"Região Nordeste";624790;48198;273134;64039;36802;1003;1047966
+".. Maranhão";59794;3939;28829;5976;4031;117;102686
+".. Piauí";37419;426;19615;3146;1848;116;62570
+".. Ceará";96906;8600;49141;12081;6286;145;173159
+".. Rio Grande do Norte";37559;3812;16269;4491;2091;88;64310
+".. Paraíba";49688;2105;22029;3875;2820;60;80577
+".. Pernambuco";120133;11917;42342;11350;5795;124;191661
+".. Alagoas";37406;1550;14813;4247;1796;34;59846
+".. Sergipe";26078;400;10492;3102;626;7;40705
+".. Bahia";159807;15449;69604;15771;11509;312;272452
+"Região Sudeste";1274155;151698;286131;46291;51049;940;1810264
+".. Minas Gerais";273571;33997;78939;14257;11951;419;413134
+".. Espírito Santo";50477;3242;12393;3702;2184;151;72149
+".. Rio de Janeiro";283940;57025;56923;9064;14494;111;421557
+".. São Paulo";666167;57434;137876;19268;22420;259;903424
+"Região Sul";425707;20720;117216;21730;22235;255;607863
+".. Paraná";147540;10719;46696;8593;7230;69;220847
+".. Santa Catarina";87124;2638;24266;4630;4582;45;123285
+".. Rio Grande do Sul";191043;7363;46254;8507;10423;141;263731
+"Região Centro-Oeste";176291;15148;46422;13883;9799;217;261760
+".. Mato Grosso do Sul";33151;1788;9522;2188;2105;6;48760
+".. Mato Grosso";35361;3409;9517;3477;2260;47;54071
+".. Goiás";74444;8038;21397;6653;4689;151;115372
+".. Distrito Federal";33335;1913;5986;1565;745;13;43557
+"Total";2656852;243365;778672;163482;133762;3050;3979183
+ Fonte: MS/SVS/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+ Nota:
+ 
+ Em 2011, houve uma mudança no conteúdo da Declaração de Óbito, com maior detalhamento das informações coletadas. Para este ano, foram
+ utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento
+ "Sistema de Informações sobre Mortalidade - SIM. Consolidação da base de dados de 2011".
+ No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.
+ No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.
+ 
